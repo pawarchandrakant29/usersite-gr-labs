@@ -127,13 +127,13 @@ const Login = () => {
             className="ps-3"
             style={{ cursor: "pointer", display: "inline-block" }}
           >
-            <img src="../../../public/images/git.png" className="img-set" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/final-pr-1a4a6.appspot.com/o/git.png?alt=media&token=48260fa0-5c23-471c-92d6-44bcc654fc2a" className="img-set" />
           </a>
           <a
             className="ps-3"
             style={{ cursor: "pointer", display: "inline-block" }}
           >
-            <img src="../../../public/images/linkdin.png" className="img-set" />
+            <img src="https://firebasestorage.googleapis.com/v0/b/final-pr-1a4a6.appspot.com/o/linkdin.png?alt=media&token=688f1e94-1c65-420e-85e3-dd841d878502" className="img-set" />
           </a>
         </div>
       </div>
